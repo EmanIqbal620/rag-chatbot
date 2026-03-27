@@ -1,0 +1,12 @@
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/intro
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/book-intro
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-1-ros2/
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-1-ros2/week-1
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-1-ros2/week-2
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-1-ros2/week-3
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-2-simulation/
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-2-simulation/week-4
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/module-2-simulation/week-5
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/hardware-requirements
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/prerequisites
+https://humanoid-robotics-textbook-zeta.vercel.app/docs/glossary
